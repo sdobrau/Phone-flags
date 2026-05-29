@@ -11,4 +11,4 @@ Show country flags near international phone numbers.
 
 This is what it looks like:
 
-![Phone flags screenshot](screenshot.png)
+![Phone flags screenshot](phone-flags-screenshot.png)
